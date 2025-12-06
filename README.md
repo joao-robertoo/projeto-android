@@ -90,7 +90,7 @@ Sempre aprendendo e buscando criar projetos reais.
 <br>
 <hr>
 
-# 🇬🇧 English Version
+# us English Version
 <br>
 <h1>📱 Project: Android Mascot History</h1>
 <br>
